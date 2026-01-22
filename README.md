@@ -4,7 +4,6 @@ A responsive React app that fetches real-time weather data using the OpenWeather
 Features include dynamic temperature display, emoji-enhanced weather conditions, clothing advice based on temperature, and a clean dark theme with sky background.
 
 ---
-
 ## 🚀 Features
 - 🌡️ Real-time temperature in Celsius
 - ☁️ Weather conditions with icons/emojis
