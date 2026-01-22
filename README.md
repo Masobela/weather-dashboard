@@ -23,9 +23,6 @@ Features include dynamic temperature display, emoji-enhanced weather conditions,
 ---
 
 ## 📸 Screenshots
-(Add screenshots of your app here — recruiters love visuals!)
 
-Example:
-```markdown
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/7eb0c25f-1658-4c7a-b077-467c6c20c424" />
 
